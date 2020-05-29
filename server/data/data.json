@@ -1,1 +1,6 @@
-{"ultimo":1,"hoy":29,"tickets":[],"ultimos4":[{"numero":1,"escritorio":"1"}]}
+{
+  "ultimo": 1,
+  "hoy": 0,
+  "tickets": [],
+  "ultimos4": [{ "numero": 1, "escritorio": "1" }]
+}
